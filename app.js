@@ -11,7 +11,7 @@ function adicionarAmigo() {
         atualizarLista();
 
     } else {
-        alert("Por favor, insira um nome válido");
+        alert("Por favor, insira um nome");
     }
         
 }
