@@ -11,7 +11,7 @@ function adicionarAmigo() {
         atualizarLista();
 
     } else {
-        alert("Por favor insira um nome válido");
+        alert("Por favor, insira um nome válido");
     }
         
 }
@@ -26,7 +26,7 @@ function sortearAmigo() {
 
     if (amigos.length > 0) {
         let sorteado = amigos[Math.floor(Math.random() * amigos.length)];
-        document.getElementById('resultado').innerHTML = `O amigo secreto sorteado é:<li>${sorteado}</li>`;
+        document.getElementById('resultado').innerHTML = `O amigo secreto sorteado é: ${sorteado}`;
     } else {
         alert("Adicione pelo menos um amigo para sortear");
     }
