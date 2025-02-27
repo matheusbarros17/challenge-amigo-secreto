@@ -17,6 +17,7 @@ O **Amigo Secreto** é uma aplicação web que permite aos usuários inserir nom
 - **Visualizar a lista**: A lista de nomes inseridos será exibida abaixo do campo de texto.
 - **Sorteio aleatório**: Ao clicar no botão "Sortear Amigo", um nome é escolhido aleatoriamente da lista e exibido na tela.
 
+## Acesso ao Projeto
 Aqui está uma demonstração da aplicação:
 
 https://matheusbarros17.github.io/challenge-amigo-secreto/
